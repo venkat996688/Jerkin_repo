@@ -1,1 +1,1 @@
-echo 'hello from master'
+echo 'hello from masters'
